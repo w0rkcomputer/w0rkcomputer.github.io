@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Nick Shewmaker
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: w0rk space
 description: Microsoft 365 Administrator | Cloud Security & Automation | Inspired to enhance the M365 user experience
